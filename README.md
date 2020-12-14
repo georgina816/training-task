@@ -1,2 +1,2 @@
 # training-task
-Home learning tasks completed with TechTalent Academy
+Home learning tasks completed with TechTalent Academy.
